@@ -7,4 +7,4 @@ about:
   image-shape: round
 ---
 
-## Hej. Jeg er analysemedarbejder i Kolding Kolding og jada jada jada.
+## Hej. Jeg er analysemedarbejder i Kolding Kolding og jada jada jada. Nu har jeg prøvet at arbejde med GIT. 
