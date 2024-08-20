@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Blog"
+  navbar:
+    left:
+      - text: Hjem
+        href: index.qmd
+      - text: Projekter
+        href: projekter.qmd
+      - text: CV
+        href: cv.qmd
+
+    right:
+      - om.qmd
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/peter-dilling-clausen-481466142/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual

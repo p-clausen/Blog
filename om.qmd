@@ -1,0 +1,12 @@
+---
+title: "Om"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: text
+---
+
+About this blog

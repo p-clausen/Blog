@@ -1,0 +1,10 @@
+---
+title: "Peters blog"
+image: Profilbillede_v3.jpg 
+about: 
+  template: jolla
+  image-width: 20em
+  image-shape: round
+---
+
+## Hej. Jeg er analysemedarbejder i Kolding Kolding og jada jada jada.
